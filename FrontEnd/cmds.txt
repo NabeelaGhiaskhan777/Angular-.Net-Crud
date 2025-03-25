@@ -1,0 +1,13 @@
+ng new myapp
+
+for model creation....
+ng generate class models/item --type=model
+
+
+for service creation ....
+ng generate service services/item
+
+
+for running app....
+ng serve 
+
